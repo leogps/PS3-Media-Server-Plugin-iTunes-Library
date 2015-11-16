@@ -24,3 +24,15 @@ Server from PS3 (DLNA device). You should now see another iTunes library folder 
 [License summary](http://creativecommons.org/licenses/by/4.0/)
 
 [Download PMS Plugin](http://sourceforge.net/projects/ituneslibparser-pms/files/v2.0.0/ItunesLibraryParserPlugin-v2.0.0.zip/download)
+
+# PS3 Media Server (PMS)
+
+PS3 Media Server is a DLNA-compliant UPnP Media Server.
+Originally written to support the PlayStation 3, PS3 Media Server has been expanded to support a range of other media renderers, including smartphones, TVs, music players and more - all of which are listed on the right.
+Because it is written in Java, PS3 Media Server supports all major operating systems, with versions for Windows, Linux and Mac OS X.
+The program streams or transcodes many different media formats with little or no configuration.
+It is powered by MEncoder, FFmpeg, tsMuxeR and AviSynth, which combine to offer support for a wide range of media formats.
+
+[PS3 Media Server](http://www.ps3mediaserver.org)
+[Github](https://github.com/ps3mediaserver/ps3mediaserver)
+[Plugins](http://www.ps3mediaserver.org/forum/viewtopic.php?f=12&t=9078)
